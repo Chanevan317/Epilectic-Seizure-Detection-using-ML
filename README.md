@@ -111,13 +111,13 @@ I also created:
 ## 📊 Results
 
 ### Best Performing Model:
-**Model Name**: LightGBM
-**Accuracy**: 98.44
-**Why it worked best**: its gradient boosting framework with leaf-wise tree growth efficiently captures complex patterns in high-dimensional EEG signals
+- **Model Name**: LightGBM
+- **Accuracy**: 98.44
+- **Why it worked best**: its gradient boosting framework with leaf-wise tree growth efficiently captures complex patterns in high-dimensional EEG signals
 
 ### Key Findings:
-1. [Finding 1 - Tree-based models worked better than linear models
-2. [Finding 2 - Combining models improved accuracy making them second performant after lgbm
+1. Finding 1 - Tree-based models worked better than linear models
+2. Finding 2 - Combining models improved accuracy making them second performant after lgbm
 
 ## 🎓 About This Project
 
