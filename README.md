@@ -136,7 +136,7 @@ I also created:
 
 ## 👤 Author
 
-**Name**: Chan Evan Wesley 
-**Student ID**: 92301733072  
-**Email**: chanevan.std@gmail.com 
-**Subject**: Machine Learning  
+- **Name**: Chan Evan Wesley 
+- **Student ID**: 92301733072  
+- **Email**: chanevan.std@gmail.com 
+- **Subject**: Machine Learning  
